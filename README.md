@@ -1,2 +1,2 @@
-# do_while_one
-Paperless Ticketing
+# Secure Mobile Ticketing
+Paperless Ticketing using QR code and Cryptography.
